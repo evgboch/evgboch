@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/yaderny46" target="_blank">Evgeny</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">My stack</h3>
-<div id="stack" align="center" markdown="1">
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32" height="32"/></h1>
+<h2 align="center">My stack</h2>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/>
