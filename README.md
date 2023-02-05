@@ -12,6 +12,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="GIT" width="40" height="40"/>
 </div>
 
+---
+
+<div align="center">
+<a href="https://github.com/evgboch/github-readme-stats">
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgboch&layout=compact&theme=radical" />
+</a>
+<a href="https://github.com/evgboch/github-readme-stats">
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=evgboch&theme=radical&show_icons=true&hide=stars,issues,contribs" />
+</a>
+</div>
+
+
 <!--
 **evgboch/evgboch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
